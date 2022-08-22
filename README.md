@@ -2,6 +2,8 @@
 
 Host Url Link :https://piyushhawq.github.io/dishpoll/
 
+![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Normal%20mode%20Mini%20Ipod%20React.png)
+
 # How to view this project on your browser.
 - Download zip file in my git repo 
 - Extract all zip folder
