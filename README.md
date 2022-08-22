@@ -2,13 +2,14 @@
 
 Host Url Link :https://piyushhawq.github.io/dishpoll/
 
-# few Steps  to view the project on your browser.
+# How to view this project on your browser.
 - Download zip file in my git repo 
 - Extract all zip folder
-- Open project in VS Code 
+- Open project in VS Code or amy other code editor 
 - Goto new terminal 
 - Run "npm install" command to install required dependencies
 - Run "npm start" to view the web page locally at  http://localhost:3000 in the browser
+
 
 # And important part
 
