@@ -2,7 +2,13 @@
 
 Host Url Link :https://piyushhawq.github.io/dishpoll/
 
-![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Normal%20mode%20Mini%20Ipod%20React.png)
+![Preview  of Page not found](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-%20page%20not%20found.png)
+
+![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Login.png)
+
+![Preview  of Home](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Home%20.png)
+
+![Preview  of dishes](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-dish.png)
 
 # How to view this project on your browser.
 - Download zip file in my git repo 
