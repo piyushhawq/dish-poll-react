@@ -2,12 +2,15 @@
 
 Host Url Link :https://piyushhawq.github.io/dishpoll/
 
-![Preview  of Page not found](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-%20page%20not%20found.png)
+When you hit the url you will redirect to page which will tell page not found & go-to  Login page 
 
+![Preview  of Page not found](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-%20page%20not%20found.png)
+When you click on login page it will redirect you to Login page where you have to give username & password (Note you will find password here :- https://github.com/piyushhawq/dish-poll-react/blob/main/src/database/users.json)
 ![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Login.png)
 
+Home Page 
 ![Preview  of Home](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Home%20.png)
-
+Dishes 
 ![Preview  of dishes](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-dish.png)
 
 # How to view this project on your browser.
