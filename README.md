@@ -1,6 +1,6 @@
 # react-dishpoll
 
-Host Url Link :https://piyushhawq.github.io/dishpoll/
+Host Url Link :https://piyushhawq.github.io/Dishpolll/
 
 When you hit the url you will redirect to page which will tell page not found & go-to  Login page 
 
